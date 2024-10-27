@@ -1,0 +1,20 @@
+---> every js file is a tsx file, js is a subset of tsx
+---> so tsx provides few rules that helps to make the code more organizable and less error prone
+---> large projects prefers tsx
+
+1. datatypes -- js (no), tsx(yes)
+2. code compilation - js dont includes compilation, but for tsx it needs compilation, bcz browsers dont know tsx so in compilation process the tsx in converted in js, and additionnal errors are checked
+
+3. type - checking
+4. code completion 
+5. refactoring'
+6. few more features like shorthand notations
+
+
+
+---> Drawbacks
+
+1. additional compilation step
+2. discipline in writing code
+
+
